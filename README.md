@@ -8,12 +8,17 @@ A Forge client/server modpack for Minecraft.
 
 Currently, this modpack is distributed as a [MultiMC] zip.
 
-1. [Download MultiMC] and install.
-2. Open MultiMC and and add login credentials
-3. Click "Add Instance" and select "Import from zip" on the left-hand side.
-4. Paste in this URL: [MMC client release 1.0.0] and hit <Enter> 
-5. When the download finishes, double-click 'Luddite-1.0.0-client-mmc'
-6. If you are not signed into a Mojang account, you will be promted for credentials
+1. Go to [Download MultiMC] and install the version for your OS
+2. Unzip the file named "mmc-stable-win32"
+3. Open the folder named "MultiMC" 
+4. In "MultiMC Quick Setup", set the minimum and maximum memory allocation to 4gb and 8gb
+5. After set up is complete, click on "Profiles" and "Manage Accounts" on the top-right of the window
+6. In the Accounts setting page, click on the "Add"
+7. Enter your Mojang login credentials
+8. On the top-left of the MultiMC window, click on "Add Instance" and "Import from Zip"
+9. Paste in this URL: [MMC client release 1.0.0] and click "OK"
+10. When the download finishes, double-click 'Luddite-1.0.0-client-mmc'
+*If you are not signed into a Mojang account, you will be promted for credentials
 
 ## Motivation
 
